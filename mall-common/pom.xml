@@ -11,5 +11,12 @@
 
     <artifactId>mall-common</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.ljx.mall</groupId>
+            <artifactId>mall-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
